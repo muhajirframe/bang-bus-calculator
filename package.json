@@ -2,6 +2,7 @@
   "name": "kalkulator",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://muhajirframe.github.io/bang-bus-calculator",
   "devDependencies": {
     "react-scripts": "0.7.0"
   },
